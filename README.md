@@ -19,9 +19,6 @@ UI :-
 
 Steps to run the code : -
 1.  Clone the Repo
-     git clone https://github.com/anualiaz/Movie-List-App.git
-     cd Movie-List-App
 2. Install Flutter Dependencies
-     flutter pub get
 3. Run on Emulator or Device
-     flutter run
+
